@@ -1,0 +1,56 @@
+header {
+    font-style: oblique;
+    text-align: center;
+    font-size: 20px;
+}
+
+header:hover{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h1{
+    display: inline;
+}
+
+body {
+    max-width: 750px;
+    vertical-align: middle;
+    padding-left: 10%;
+}
+
+table{
+    border-radius: 50%;
+    border-collapse: collapse;
+    width: 40em;
+    border: medium solid #00F;
+}
+
+td {
+    border: medium solid green;
+}
+
+tr{
+    border: red dotted 5px;
+}
+
+#columns {
+    font-weight: bold;
+}
+
+#pMargin {
+    margin: 35em;
+}
+
+a {
+    color: hotpink;
+  }
+
+.red{
+    color: blueviolet;
+
+}
+
+.hideme:hover {
+    visibility: hidden;
+}
